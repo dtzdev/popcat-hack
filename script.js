@@ -1,5 +1,4 @@
 // Copy Script Below
-
 eval(function(p, a, c, k, e, d) {
   while (c--) {
     if (k[c]) {
