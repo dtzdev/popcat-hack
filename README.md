@@ -8,6 +8,6 @@ You can change cps but if you have a weak computer it will not work properly.
 1. Press ctrl + shift + i.
 2. Click console in top.
 3. Paste code in script.js to console.
-4. (Optional) If you want you can change the 500cps to higher
-5. Press Eter
+4. (Optional) If you want you can change the 500cps to higher.
+5. Press Enter.
 
